@@ -15,3 +15,18 @@ Segue os respectivos gráficos do R médio para os respectivos parâmetros. As i
 ![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/MeanR-HR-Noiseless-Noise-b2.672-I4.311.png)
 ![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/MeanR-HR-Noiseless-Noise-b2.661-I4.32.png)
 ![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/MeanR-HR-Noiseless-Noise-b2.66-I4.29.png)
+
+## (Em desenvolvimento) Gráficos do Gamma e da Entropia
+
+Para os parâmetros b=2.661 e I=4.32, os gráficos do Gamma e da Entropia em função do acoplamento para a rede SEM RUÍDO é:
+![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/MeanGamma-HR-Noiseless-LR-b2.661-I4.32.png)
+![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/MeanEntropy-HR-Noiseless-LR-b2.661-I4.32.png)
+Para esses mesmos parâmetros, mas COM ruído:
+![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/MeanGamma-HR-Noise-LR-b2.661-I4.32.png)
+![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/MeanEntropy-HR-Noise-LR-b2.661-I4.32.png)
+Para os parâmetros b=2.672 e I=4.311, rede sem ruído:
+![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/MeanGamma-HR-Noiseless-LR-b2.672-I4.311.png)
+![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/MeanEntropy-HR-Noiseless-LR-b2.672-I4.311.png)
+Para esses mesmos parâmetros, mas COM ruído:
+![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/MeanGamma-HR-Noise-LR-b2.672-I4.311.png)
+![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/MeanEntropy-HR-Noise-LR-b2.672-I4.311.png)
