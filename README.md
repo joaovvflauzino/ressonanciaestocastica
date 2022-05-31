@@ -16,6 +16,9 @@ Segue os respectivos gráficos do R médio para os respectivos parâmetros. As i
 ![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/MeanR-HR-Noiseless-Noise-b2.661-I4.32.png)
 ![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/MeanR-HR-Noiseless-Noise-b2.66-I4.29.png)
 
+Gráfico da sobreposição das curvas do R médio das redes COM ruído.
+![Parâmetros](https://github.com/joaovvflauzino/ressonanciaestocastica/blob/main/VariousMeanR-HR-Noise.png)
+
 ## (Em desenvolvimento) Gráficos do Gamma e da Entropia
 
 Para os parâmetros b=2.661 e I=4.32, os gráficos do Gamma e da Entropia em função do acoplamento para a rede SEM RUÍDO é:
